@@ -1,0 +1,12 @@
+#display > div{
+    color: blue;
+    margin-top: 10px;
+    font-weight: 600;
+}
+#display{
+    background-color:tomato;
+    width: 300px;
+}
+img{
+    height: 75px;
+}
